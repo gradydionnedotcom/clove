@@ -1,0 +1,31 @@
+baseURL: http://localhost:1313/
+languageCode: en-us
+theme: coming-soon
+title: Clove Site
+
+params:
+  header: A shoegaze band based in Denver, Colorado
+  title: Clove
+  phrases:
+    - Come see us live
+    - November 3rd
+    - With Gap Year
+
+  scrollingText: Come see us live on November 3rd with Gap year at __. Look out for some new singles in the coming months. Check out our new merch. We have keychains and shirts. We love music
+  
+  links:
+    - name: Apple music
+      url: https://music.apple.com/us/artist/clove/1838596157
+      newTab: true
+    - name: Spotify
+      url: https://open.spotify.com/artist/3YNhxcdJgYcw7XMx5PRK6V
+      newTab: true
+    - name: Instagram
+      url: https://www.instagram.com/clove.iv/
+      newTab: true
+    - name: Contact Us
+      url: /
+      newTab: false
+  footer: Made With Love
+
+
