@@ -27,5 +27,17 @@ params:
       url: /
       newTab: false
   footer: Made With Love
-
+  posters:
+    format: png
+    width: 300
+    height: 450
+    items:
+      - name: poster1
+        alt: 
+      - name: poster2
+        alt: 
+      - name: poster3
+        alt: 
+      - name: poster4
+        alt: 
 
