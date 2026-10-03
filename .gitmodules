@@ -1,3 +1,3 @@
-[submodule "examplesite/themes/glim-midnight"]
-	path = /themes/glim-midnight
-	url = https://github.com/mansoorbarri/glim-midnight
+[submodule "themes/coming-soon"]
+    path = themes/coming-soon
+    url = https://github.com/some-user/some-theme-repo.git
