@@ -24,13 +24,18 @@ params:
       url: https://www.instagram.com/clove.iv/
       newTab: true
     - name: Contact Us
-      url: /
+      url: mailto:clove1band@gmail.com?subject=You%20guys%20are%20the%20best%20band%20ever!&body=**insert%20your%20text%20here**
       newTab: false
   footer: Made With Love
+
+  bio: 'Clove is the agro alter-ego of an otherwise quiet nature. They are unassuming, melancholic, and at times mousey, but wield the power to incite riot on command. Calm, unstrained vocals are paired with instrumentation that is patient and deeply melodic, yet at every moment threatens to hurl us into mayhem. As each aggressive bout resolves, the listener is left in a curious state of submission and peace amidst chaos—both exhilarating and meditative. This is echoed by the lyrics; You eat like a flower. But you devour. Everything whole. Suggesting that something delicate and restrained, almost wilting, may, at any moment, split in two, forming a vast chasm of distortion and noise textured by the haunting wails of their lead guitar. The listener is suddenly engulfed—devoured whole. Dramatic effect aside, Clove has created a body of broody, thoughtfully paced, and tastefully dissonant guitar-driven music. Comparable to the likes of Slint, Hum, Julie, and Horse Jumper of Love, they remain unequivocally Clove.'
+
   posters:
+    header: Some shows and such
+    subtitle:
     format: png
-    width: 300
-    height: 450
+    width: 250
+    height: 325
     items:
       - name: poster1
         alt: 
@@ -41,3 +46,12 @@ params:
       - name: poster4
         alt: 
 
+  merch:
+    header: Merch items
+    format: png
+    width: 250
+    height: 325
+    items:
+      - name: merch1
+      - name: merch2
+      - name: merch3
