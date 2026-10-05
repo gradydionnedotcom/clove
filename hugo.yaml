@@ -1,7 +1,7 @@
 theme: coming-soon
 title: Clove Site
 locale: en-US
-baseurl: http://www.clove.rocks
+baseurl: https://gradydionnedotcom.github.io/clove/
 caches:
   images:
     dir: :cacheDir/images
