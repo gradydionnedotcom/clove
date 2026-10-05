@@ -1,5 +1,7 @@
 theme: coming-soon
 title: Clove Site
+locale: en-US
+baseurl: http://www.clove.rocks
 
 params:
   header: A shoegaze band based in Denver, Colorado
@@ -36,13 +38,9 @@ params:
     height: 325
     items:
       - name: poster1
-        alt: 
       - name: poster2
-        alt: 
       - name: poster3
-        alt: 
       - name: poster4
-        alt: 
 
   merch:
     header: Merch items
