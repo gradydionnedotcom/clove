@@ -2,6 +2,9 @@ theme: coming-soon
 title: Clove Site
 locale: en-US
 baseurl: http://www.clove.rocks
+caches:
+  images:
+    dir: :cacheDir/images
 
 params:
   header: A shoegaze band based in Denver, Colorado
