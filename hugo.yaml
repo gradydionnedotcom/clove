@@ -14,7 +14,7 @@ params:
     - November 3rd
     - With Gap Year
 
-  scrollingText: Come see us live on November 3rd with Gap year at __. Look out for some new singles in the coming months. Check out our new merch. We have keychains and shirts. We love music
+  scrollingText: Come see us live on November 3rd with Gap Year and The Ritornello Form at D3 Arts. Look out for some new singles in the coming months. Check out our new merch. We have keychains and shirts. We love music.
   
   links:
     - name: Apple music
@@ -41,6 +41,7 @@ params:
     height: 325
     items:
       - name: content/show-posters/poster1
+        format: jpeg
       - name: content/show-posters/poster2
       - name: content/show-posters/poster3
       - name: content/show-posters/poster4
